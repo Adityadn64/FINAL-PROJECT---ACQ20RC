@@ -4,28 +4,7 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman",
-        "cart": [
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_20_23_09_53_623": {
                 "products": [
@@ -78,6 +57,27 @@
                     "email": "adityadwinugraha.2021@gmail.com",
                     "phone": "089668041554",
                     "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi"
+                }
+            },
+            "2025_03_20_23_59_39_027": {
+                "products": [
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ],
+                        "total": 8
+                    }
+                ],
+                "payment_method": "card",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman"
                 }
             }
         }
