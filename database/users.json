@@ -4,28 +4,7 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi",
-        "cart": [
-            1,
-            6,
-            6,
-            6,
-            6,
-            5,
-            5,
-            5,
-            5,
-            5,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_20_18_45_55_968": {
                 "products": [
@@ -242,6 +221,162 @@
                     }
                 ],
                 "payment_method": "qr",
+                "user": {
+                    "name": "Aditya Dwi",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi"
+                }
+            },
+            "2025_03_20_21_06_03_427": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ]
+                    }
+                ],
+                "payment_method": "bank",
                 "user": {
                     "name": "Aditya Dwi",
                     "email": "adityadwinugraha.2021@gmail.com",
