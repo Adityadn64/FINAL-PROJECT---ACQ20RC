@@ -4,13 +4,7 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi",
-        "cart": [
-            4,
-            4,
-            4,
-            4,
-            4
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_20_18_45_55_968": {
                 "products": [
@@ -383,6 +377,62 @@
                     }
                 ],
                 "payment_method": "bank",
+                "user": {
+                    "name": "Aditya Dwi",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi"
+                }
+            },
+            "2025_03_20_21_19_38_703": {
+                "products": [
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ]
+                    }
+                ],
+                "payment_method": "card",
                 "user": {
                     "name": "Aditya Dwi",
                     "email": "adityadwinugraha.2021@gmail.com",
