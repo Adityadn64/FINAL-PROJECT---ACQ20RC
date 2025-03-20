@@ -1,7 +1,7 @@
 var products = [];
 var fileData = "";
 
-const GITHUB_TOKEN = "";
+const GITHUB_TOKEN = "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";
 const GITHUB_OWNER = "Adityadn64";
 const GITHUB_REPO = "FINAL-PROJECT---ACQ20RC";
 const USERS_FILE_PATH = "database/users.json";
