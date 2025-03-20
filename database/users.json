@@ -4,13 +4,74 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi",
-        "cart": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "transactions": {}
+        "cart": [],
+        "transactions": {
+            "2025_03_20_23_09_53_623": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    }
+                ],
+                "payment_method": "qr",
+                "user": {
+                    "name": "Aditya Dwi",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi"
+                }
+            }
+        }
     }
 }
