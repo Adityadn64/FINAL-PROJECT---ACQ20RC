@@ -5,7 +5,8 @@
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman",
         "cart": [
-            1
+            1,
+            2
         ],
         "transactions": {
             "2025_03_20_23_09_53_623": {
