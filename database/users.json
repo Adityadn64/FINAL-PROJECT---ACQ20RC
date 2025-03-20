@@ -4,11 +4,7 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman",
-        "cart": [
-            1,
-            2,
-            2
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_20_23_09_53_623": {
                 "products": [
@@ -77,6 +73,38 @@
                     }
                 ],
                 "payment_method": "card",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman"
+                }
+            },
+            "2025_03_21_00_02_17_257": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biskuit Gandum Sehat",
+                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+                        "price": 35000,
+                        "files": [
+                            "img/product3a.jpg"
+                        ],
+                        "total": 2
+                    }
+                ],
+                "payment_method": "qr",
                 "user": {
                     "name": "Aditya Dwi Nugraha",
                     "email": "adityadwinugraha.2021@gmail.com",
