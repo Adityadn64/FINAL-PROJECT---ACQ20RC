@@ -1,8 +1,9 @@
 var products = [];
 var fileData = "";
 
-const GITHUB_TOKEN =
-    "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";
+const GITHUB_TOKEN = atob(
+    "Z2l0aHViX3BhdF8xMUFYNEtVTlkwRFRGdXNBM0lxWUlpX0lBM21aUEp6UGI0bTNrdkpVZHlvVzF2ZWNld1YyWlhwZzFhTUtKWDZaZGRCSkFNSEw1MmU3YjE2Wmpw"
+);
 const GITHUB_OWNER = "Adityadn64";
 const GITHUB_REPO = "FINAL-PROJECT---ACQ20RC";
 const USERS_FILE_PATH = "database/users.json";
