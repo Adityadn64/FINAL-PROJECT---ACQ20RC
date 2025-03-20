@@ -1,0 +1,227 @@
+* {
+  transition: all 0.25s;
+}
+
+body {
+  font-size: 20px;
+  background-color: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 5px;
+}
+
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+header h2 {
+  font-weight: bold;
+}
+
+header input[type="search"] {
+  border-radius: 0.5rem;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+  border-radius: 0.5rem;
+}
+
+.card img {
+  max-height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+header,
+footer {
+  z-index: 1000;
+  border-radius: 5px;
+  width: 100%;
+  transform: translate(0, 50%);
+}
+
+header.fixed-top {
+  position: fixed;
+  top: -7.5%;
+  left: 0;
+}
+
+header .container div {
+  gap: 20px;
+}
+
+footer.fixed-bottom {
+  position: fixed;
+  bottom: 5%;
+  left: 0;
+}
+
+footer .container {
+  width: 720px;
+}
+
+footer,
+header {
+  background-color: #eeeeeeaa;
+}
+
+@media (max-width: 720px) {
+  .nd-720 {
+    display: none !important;
+  }
+
+  footer .container {
+    width: auto;
+  }
+}
+
+@media (max-width: 512px) {
+  .nd-512 {
+    display: none !important;
+  }
+
+  .form-control-lg {
+    min-height: calc(1.5em + 0.5rem + calc(var(--bs-border-width) * 2));
+    padding: 0.25rem 0.5rem;
+    font-size: 1.05rem;
+    border-radius: var(--bs-border-radius-sm);
+  }
+
+  .btn-lg {
+    margin-bottom: 4%;
+  }
+}
+
+.hf {
+  margin: 150px 0 !important;
+  padding: 64px;
+}
+
+.transactions-body {
+  cursor: pointer;
+}
+
+.transactions-body .card-body:hover {
+  background-color: #eee;
+}
+
+#transaction-details {
+  max-width: 320px;
+  aspect-ratio: 9 / 16;
+  text-align: left;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+#transaction-details .receipt-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: top left;
+  width: 100%;
+  background: #fff;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.receipt-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.receipt-table th,
+.receipt-table td {
+  padding: 4px;
+  border-bottom: 1px dotted #aaa;
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+.total-row {
+  border-top: 1px solid #000;
+  font-weight: bold;
+}
+
+.receipt-footer {
+  margin-top: 10px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.action-buttons {
+  width: 50%;
+}
+
+#cart-items {
+  width: 100% !important;
+}
+
+#backButton {
+  position: fixed;
+  z-index: 1;
+  top: 12.5%;
+  left: 2.5%;
+}
+
+@media (max-height: 900px) {
+  #backButton {
+    top: 15% !important;
+  }
+}
+
+@media (max-height: 800px) {
+  #backButton {
+    top: 17.5% !important;
+  }
+}
+
+@media (max-height: 700px) {
+  #backButton {
+    top: 20% !important;
+  }
+}
+
+@media (max-height: 625px) {
+  #backButton {
+    top: 22.5% !important;
+  }
+}
+
+@media (max-height: 500px) {
+  #backButton {
+    top: 25% !important;
+  }
+}
+
+@media (max-height: 575px) {
+  #backButton {
+    top: 25.75% !important;
+  }
+}
+
+@media (max-height: 525px) {
+  #backButton {
+    top: 26.66% !important;
+  }
+}
+
+@media (max-height: 500px) {
+  #backButton {
+    top: 27.5% !important;
+  }
+}

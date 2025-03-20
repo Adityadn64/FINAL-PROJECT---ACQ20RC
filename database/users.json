@@ -1,0 +1,57 @@
+{
+    "110439812772317180959": {
+        "name": "Aditya Dwi",
+        "email": "adityadwinugraha.2021@gmail.com",
+        "phone": "089668041554",
+        "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi",
+        "cart": [],
+        "transactions": {
+            "2025_03_20_18_45_55_968": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+                    }
+                ],
+                "payment_method": "qr",
+                "user": {
+                    "name": "Aditya Dwi",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi"
+                }
+            }
+        }
+    }
+}

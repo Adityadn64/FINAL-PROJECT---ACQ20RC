@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Kopi Arabika Premium",
+        "description": "Kopi Arabika pilihan dengan aroma khas yang lembut dan rasa yang nikmat.",
+        "price": 75000,
+        "files": ["img/product1a.jpg", "img/product1b.jpg", "vd/product1.mp4"]
+    },
+    {
+        "id": 2,
+        "name": "Teh Hijau Organik",
+        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+        "price": 50000,
+        "files": ["img/product2a.jpg", "img/product2b.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Biskuit Gandum Sehat",
+        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
+        "price": 35000,
+        "files": ["img/product3a.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Minyak Zaitun Extra Virgin",
+        "description": "Minyak zaitun berkualitas tinggi, ideal untuk masakan dan salad.",
+        "price": 120000,
+        "files": ["img/product4a.jpg", "img/product4b.jpg"]
+    },
+    {
+        "id": 5,
+        "name": "Madu Hutan Murni",
+        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+        "price": 90000,
+        "files": ["img/product5a.jpg"]
+    },
+    {
+        "id": 6,
+        "name": "Susu Almond tanpa Gula",
+        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+        "price": 80000,
+        "files": ["img/product6a.jpg"]
+    }
+]

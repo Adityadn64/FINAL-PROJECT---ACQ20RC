@@ -1,0 +1,19 @@
+// Project File Dependencies
+digraph {
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/transactions.html" [label="transactions.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/product.html" [label="product.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/payment.html" [label="payment.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/index.html" [label="index.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/cart.html" [label="cart.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/transaction.html" [label="transaction.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/profile.html" [label="profile.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/search.html" [label="search.html"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/stylesheet/styles.css" [label="styles.css"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/profile.js" [label="profile.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/component.js" [label="component.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/cart.js" [label="cart.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/payment.js" [label="payment.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/main.js" [label="main.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/search.js" [label="search.js"]
+	"/content/drive/MyDrive/Developer/Project/Competition/Alhazen Coding Quest 20 Days Ramadhan Challenge/FINAL PROJECT/javascript/data.js" [label="data.js"]
+}
