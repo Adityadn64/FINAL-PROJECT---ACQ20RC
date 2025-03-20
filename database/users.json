@@ -4,7 +4,13 @@
         "email": "adityadwinugraha.2021@gmail.com",
         "phone": "089668041554",
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman, Sidodadi",
-        "cart": [],
+        "cart": [
+            4,
+            4,
+            4,
+            4,
+            4
+        ],
         "transactions": {
             "2025_03_20_18_45_55_968": {
                 "products": [
