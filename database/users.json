@@ -6,7 +6,11 @@
         "address": "Indonesia, Jawa Timur, Sidoarjo, Taman",
         "cart": [
             1,
-            1
+            1,
+            6,
+            6,
+            6,
+            6
         ],
         "transactions": {
             "2025_03_20_23_09_53_623": {
