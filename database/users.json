@@ -5,27 +5,7 @@
         "phone": "089668041554",
         "address": "Indonesia, Jawa, Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg",
-        "cart": [
-            1,
-            1,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6,
-            6
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_21_13_07_45_507": {
                 "products": [
@@ -93,6 +73,40 @@
                     "email": "adityadwinugraha.2021@gmail.com",
                     "phone": "089668041554",
                     "address": "Indonesia, Pulau Jawa, Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
+                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
+                }
+            },
+            "2025_03_21_21_55_18_261": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 2
+                    },
+                    {
+                        "id": 4,
+                        "name": "Minyak Zaitun Extra Virgin",
+                        "description": "Minyak zaitun berkualitas tinggi, ideal untuk masakan dan salad.",
+                        "price": 120000,
+                        "files": [
+                            "img/product4a.jpg",
+                            "img/product4b.jpg"
+                        ],
+                        "total": 7
+                    }
+                ],
+                "payment_method": "bank",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Jawa, Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
                     "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
                 }
             }
