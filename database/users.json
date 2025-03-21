@@ -5,13 +5,7 @@
         "phone": "089668041554",
         "address": "Indonesia, Pulau Jawa, Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg",
-        "cart": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_21_13_07_45_507": {
                 "products": [
@@ -28,6 +22,29 @@
                     }
                 ],
                 "payment_method": "qr",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Indonesia, Pulau Jawa, Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
+                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
+                }
+            },
+            "2025_03_21_17_22_17_543": {
+                "products": [
+                    {
+                        "id": 2,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 5
+                    }
+                ],
+                "payment_method": "card",
                 "user": {
                     "name": "Aditya Dwi Nugraha",
                     "email": "adityadwinugraha.2021@gmail.com",
