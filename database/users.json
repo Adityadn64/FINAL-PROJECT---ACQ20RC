@@ -6,41 +6,7 @@
         "address": "Indonesia, Pulau Jawa, Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg",
         "cart": [],
-        "transactions": {
-            "2025_03_21_12_57_20_170": {
-                "products": [
-                    {
-                        "id": 2,
-                        "name": "Teh Hijau Organik",
-                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
-                        "price": 50000,
-                        "files": [
-                            "img/product2a.jpg",
-                            "img/product2b.jpg"
-                        ],
-                        "total": 5
-                    },
-                    {
-                        "id": 3,
-                        "name": "Biskuit Gandum Sehat",
-                        "description": "Biskuit dengan bahan gandum alami, cocok untuk cemilan ringan.",
-                        "price": 35000,
-                        "files": [
-                            "img/product3a.jpg"
-                        ],
-                        "total": 5
-                    }
-                ],
-                "payment_method": "qr",
-                "user": {
-                    "name": "Aditya Dwi Nugraha",
-                    "email": "adityadwinugraha.2021@gmail.com",
-                    "phone": "089668041554",
-                    "address": "Indonesia, Pulau Jawa, Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
-                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
-                }
-            }
-        }
+        "transactions": {}
     },
     "100408211261906268422": {
         "name": "Aditya Dwi",
