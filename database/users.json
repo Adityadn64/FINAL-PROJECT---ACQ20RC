@@ -5,28 +5,7 @@
         "phone": "089668041554",
         "address": "Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg",
-        "cart": [
-            6,
-            6,
-            6,
-            6,
-            6,
-            4,
-            4,
-            4,
-            4,
-            4,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_21_13_07_45_507": {
                 "products": [
@@ -161,6 +140,39 @@
                     "email": "adityadwinugraha.2021@gmail.com",
                     "phone": "089668041554",
                     "address": "Indonesia, Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
+                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
+                }
+            },
+            "2025_03_23_15_56_21_579": {
+                "products": [
+                    {
+                        "id": 4,
+                        "name": "Minyak Zaitun Extra Virgin",
+                        "description": "Minyak zaitun berkualitas tinggi, ideal untuk masakan dan salad.",
+                        "price": 120000,
+                        "files": [
+                            "img/product4a.jpg",
+                            "img/product4b.jpg"
+                        ],
+                        "total": 10
+                    },
+                    {
+                        "id": 5,
+                        "name": "Madu Hutan Murni",
+                        "description": "Madu asli dari hutan tropis, kaya akan nutrisi dan antioksidan.",
+                        "price": 90000,
+                        "files": [
+                            "img/product5a.jpg"
+                        ],
+                        "total": 5
+                    }
+                ],
+                "payment_method": "bank",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
                     "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
                 }
             }
