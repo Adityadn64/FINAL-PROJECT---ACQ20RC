@@ -5,18 +5,7 @@
         "phone": "089668041554",
         "address": "Jawa Timur, Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg",
-        "cart": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            5,
-            5,
-            5,
-            5,
-            5
-        ],
+        "cart": [],
         "transactions": {
             "2025_03_21_13_07_45_507": {
                 "products": [
@@ -198,6 +187,39 @@
                             "img/product5a.jpg"
                         ],
                         "total": 10
+                    }
+                ],
+                "payment_method": "qr",
+                "user": {
+                    "name": "Aditya Dwi Nugraha",
+                    "email": "adityadwinugraha.2021@gmail.com",
+                    "phone": "089668041554",
+                    "address": "Jawa Timur, Sidoarjo, Kecamatan Taman, Desa Sidodadi, Dusun Kemendung RT01 RW01, Gang. Garuda",
+                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/110439812772317180959.jpg"
+                }
+            },
+            "2025_03_23_23_56_42_207": {
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 5
+                    },
+                    {
+                        "id": 5,
+                        "name": "Susu Almond tanpa Gula",
+                        "description": "Susu almond alami, pilihan tepat untuk diet rendah gula.",
+                        "price": 80000,
+                        "files": [
+                            "img/product6a.jpg"
+                        ],
+                        "total": 5
                     }
                 ],
                 "payment_method": "qr",
