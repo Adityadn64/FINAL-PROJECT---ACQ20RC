@@ -282,7 +282,12 @@
         "phone": "081094394834",
         "address": "Home",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/111597305099290558889.jpg",
-        "cart": [],
+        "cart": [
+            2,
+            2,
+            2,
+            2
+        ],
         "transactions": {
             "2025_03_26_16_11_10_101": {
                 "products": [
