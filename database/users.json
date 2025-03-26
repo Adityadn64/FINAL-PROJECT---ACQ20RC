@@ -282,9 +282,31 @@
         "phone": "081094394834",
         "address": "Home",
         "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/111597305099290558889.jpg",
-        "cart": [
-            1
-        ],
-        "transactions": {}
+        "cart": [],
+        "transactions": {
+            "2025_03_26_16_11_10_101": {
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Teh Hijau Organik",
+                        "description": "Teh hijau organik yang menyegarkan, cocok untuk kesehatan harian.",
+                        "price": 50000,
+                        "files": [
+                            "img/product2a.jpg",
+                            "img/product2b.jpg"
+                        ],
+                        "total": 1
+                    }
+                ],
+                "payment_method": "card",
+                "user": {
+                    "name": "Salman",
+                    "email": "salmanzahi1104@gmail.com",
+                    "phone": "081094394834",
+                    "address": "Home",
+                    "photo_profile": "https://raw.githubusercontent.com/Adityadn64/FINAL-PROJECT---ACQ20RC/main/assets/users/photo_profile/111597305099290558889.jpg"
+                }
+            }
+        }
     }
 }
